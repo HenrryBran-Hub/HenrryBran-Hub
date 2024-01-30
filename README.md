@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **2168036320108@ingenieria.usac.edu.gt**
 
-- 📄 Acerca de mis experiencias Siendo estudiante solo tengo proyectos personales y proyectos de universidad pero me encanta aprender nuevas tecnologias, que me puedan ayudar con mi crecimiento de conocimiento sobre este grandioso mundo de informatica y redes, que me puedan ayudar con mi crecimiento de conocimiento sobre este grandioso mundo de informatica y redes)
+- 📄 Acerca de mis experiencias: Siendo estudiante solo tengo proyectos personales y proyectos de universidad pero me encanta aprender nuevas tecnologias, que me puedan ayudar con mi crecimiento de conocimiento sobre este grandioso mundo de informatica y redes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

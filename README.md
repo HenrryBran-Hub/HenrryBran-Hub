@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, Mi nombre es Henrry Bran</h1>
 <h3 align="center">Soy un Estudiante de USAC en ingenieria en ciencias y sistemas que le gusta aprender siempre, y ayudar a compañeros y practicar algunas tonteras cuando estoy libre de tiempo</h3>
 
-- 🌱 Que estoy aprendiendo actualmente **Aprendiendo de react y todo lo relacionado con el frontend**
+- 🌱 Que estoy aprendiendo actualmente: **Aprendiendo de react y todo lo relacionado con el frontend**
 
-- 👨‍💻 All of my projects are available at [pueden ver mis proyectos que son dirigidos a varias bases de tecnologias](pueden ver mis proyectos que son dirigidos a varias bases de tecnologias)
+- 👨‍💻 Mis Proyectos: pueden ver mis proyectos que son dirigidos a varios softwares desde desarrollo de aplicaciones hasta redes y bases de datos
 
-- 💬 Acerca de mi **Frontend y Backend**
+- 💬 Acerca de mi: **Frontend y Backend**
 
-- 📫 How to reach me **2168036320108@ingenieria.usac.edu.gt**
+- 📫 How to reach me: **2168036320108@ingenieria.usac.edu.gt**
 
-- 📄 Acerca de mis experiencias [Siendo estudiante solo tengo proyectos personales y proyectos de universidad pero me encanta aprender nuevas tecnologias, que me puedan ayudar con mi crecimiento de conocimiento sobre este grandioso mundo de informatica y redes](Siendo estudiante solo tengo proyectos personales y proyectos de universidad pero me encanta aprender nuevas tecnologias, que me puedan ayudar con mi crecimiento de conocimiento sobre este grandioso mundo de informatica y redes)
+- 📄 Acerca de mis experiencias Siendo estudiante solo tengo proyectos personales y proyectos de universidad pero me encanta aprender nuevas tecnologias, que me puedan ayudar con mi crecimiento de conocimiento sobre este grandioso mundo de informatica y redes, que me puedan ayudar con mi crecimiento de conocimiento sobre este grandioso mundo de informatica y redes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
